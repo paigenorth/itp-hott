@@ -12,7 +12,7 @@
 2. [Homotopy type theory: the logic of space](https://arxiv.org/abs/1703.03007), Michael Shulman
 
 
-## UniMath (Coq)
+## Installing UniMath (Coq)
 
 Exercises can be done on paper or using the UniMath library in the Coq proof assistant. (Or other libraries in other proof assistants if you dare!) Here are instructions for installing/using the UniMath library in the Coq proof assistant in order from easiest to hardest.
 
