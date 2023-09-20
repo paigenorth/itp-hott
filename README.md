@@ -2,6 +2,10 @@
 
 ## Resources
 
+### Supplement to Lecture 1
+1. See [here](https://github.com/paigenorth/oplss/blob/main/Lecture%201%20-%20Martin-Löf%20type%20theory/preliminary_notes.pdf) for an expanded version of the notes.
+2. See [here](https://homotopytypetheory.org/2011/04/18/whats-special-about-identity-types/) for an explanation of what makes identity types different.
+
 ### Textbooks
 1. [The HoTT Book](https://homotopytypetheory.org/book/)
 2. [Introduction to HoTT](https://arxiv.org/abs/2212.11082), Egbert Rijke
